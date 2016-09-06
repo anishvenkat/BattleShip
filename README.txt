@@ -3,3 +3,6 @@ npm install
 
 To run the test file , type on terminal ::::::::::
 npm test
+
+
+etc
